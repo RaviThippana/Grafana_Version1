@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Sep 07 23:00:15 IST 2022","Wed Sep 07 23:00:21 IST 2022","6555","","BasicTest.spec.js","","","","Grafana About Page",""
+"passed","Tue Sep 13 12:34:45 IST 2022","Tue Sep 13 12:34:58 IST 2022","13553","","AboutPage.spec.js","","","","Grafana About Page",""
+"passed","Wed Sep 07 22:58:19 IST 2022","Wed Sep 07 22:58:23 IST 2022","3583","","BasicTest.spec.js","","","","VuSmartMaps_AboutPage",""
