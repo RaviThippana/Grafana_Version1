@@ -42,8 +42,8 @@ const config = {
     },
 
     /* Base URL to use in actions like `await page.goto('/')`. */
-    //baseURL: "https://104.211.229.198/",
-    baseURL: "https://www.google.com/",
+    baseURL: "https://104.211.229.198/",
+    //baseURL: "https://www.google.com/",
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: "on",
   },
