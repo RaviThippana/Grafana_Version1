@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "Smoke": "npx playwright test tests/AboutPage.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
